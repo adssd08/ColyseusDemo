@@ -1,5 +1,5 @@
 # ColyseusDemo
-Cocos Creator app using Colyseus Multiplayer Engine
+Cocos Creator(3.4.2) app using Colyseus Multiplayer Engine
 
 From the root of the project:
 
